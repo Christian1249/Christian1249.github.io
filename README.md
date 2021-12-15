@@ -1,1 +1,103 @@
-History Project
+<!DOCTYPE html>
+   
+<html lang="en">
+
+
+<meta charset="utf-8" />
+<title>Home</title>
+<link rel="icon" href="ada.jpg" type="image/jpg" sizes="16x16">
+<style>
+.border_background{
+background-color:darkgrey;
+position: absolute; 
+top: 170px; 
+left: 250px;
+width: 130px;
+height: 15px;
+border: 3px solid black;
+padding: 10px;
+margin: 35px;
+}
+.border_importance{
+background-color:darkgrey;
+position: absolute; 
+top: 170px; 
+left: 400px;
+width: 130px;
+height: 15px;
+border: 3px solid black;
+padding: 10px;
+margin: 35px;
+}
+.border_analysis{
+background-color:darkgrey;
+position: absolute; 
+top: 170px; 
+left: 550px;
+width: 130px;
+height: 15px;
+border: 3px solid black;
+padding: 10px;
+margin: 35px;
+}
+.border_conclusion{
+background-color:darkgrey;
+position: absolute; 
+top: 170px; 
+left: 700px;
+width: 130px;
+height: 15px;
+border: 3px solid black;
+padding: 10px;
+margin: 35px;
+}
+.border_references{
+background-color:darkgrey;
+position: absolute; 
+top: 170px; 
+left: 850px;
+width: 130px;
+height: 15px;
+border: 3px solid black;
+padding: 10px;
+margin: 35px;
+}
+.border_questions{
+background-color:darkgrey;
+position: absolute; 
+top: 170px; 
+left: 1000px;
+width: 130px;
+height: 15px;
+border: 3px solid black;
+padding: 10px;
+margin: 35px;
+}
+</style>
+<body style="background-color:pink;">
+<p><img src = "ada.jpg" style = "position: absolute;           
+		top: 0px; left: 500px; z-index: 1" height="200" width="450" alt = "First positioned image" />
+		</p>
+<p style = "position: absolute; top: 60px; left: 100px; font-size:20pt;">      
+			Welcome to My History Website!</p>
+<p style = "position: absolute; top: 60px; left: 1000px; font-size:20pt;">      
+			Home Page</p>
+<p class ="border_background"> 
+<a href="Background.html" style = "color:purple; font-size:20pt;">Background</a></p>
+<p class ="border_importance"> 
+<a href="Importance.html" style = "color:purple; font-size:20pt;">Importance</a></p>
+<p class ="border_analysis" > 
+<a href="Analysis.html" style = "color:purple; font-size:20pt;">Analysis</a></p>
+<p class ="border_conclusion"> 
+<a href="Conclusion.html" style = "color:purple; font-size:20pt;">Conclusion</a></p>
+<p class ="border_references"> 
+<a href="References.html" style = "color:purple; font-size:20pt;">References</a></p>
+<p class ="border_questions"> 
+<a href="Questions.html" style = "color:purple; font-size:20pt;">Questions</a></p>
+<p style = "position: absolute; top: 250px; left: 350px; font-size:25pt;">      
+			This website will inform about The Women's War of 1929.</p>
+<p><img src = "WP.jpg" style = "position: absolute;           
+		top: 350px; left: 500px; z-index: 1" height="200" width="450" alt = "Second positioned image" />
+		</p>
+<p style = "position: absolute; top: 550px; left: 500px; font-size:25pt;">      
+			Click on Backgroud to begin. Enjoy!!</p>
